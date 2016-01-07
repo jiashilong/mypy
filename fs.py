@@ -6,3 +6,6 @@ def fmin(a):
 
 def flen(a):
 	return len(a)
+
+def fadd(a,b):
+	return a + b
